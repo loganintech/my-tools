@@ -1,7 +1,7 @@
 # Generic Tools
 
 ## [Fantastical 2 - $50](https://flexibits.com/fantastical)
-![[Fantastical 2](https://flexibits.com/fantastical)](http://i.imgur.com/X3iIklH.png)
+![[Fantastical 2](https://flexibits.com/fantastical)](https://dncnhi2ob6sh.cloudfront.net/img/fantastical2-mac-screenshot-dark@2x.png)
 
 ### Description
 
