@@ -11,7 +11,7 @@ Fantastical 2 is a calendar app. It's a good one. Not much more.
 
 * Intelligent Event Creation
 
-![](http://i.imgur.com/qWV2jBo.gif)
+[Long .gif, click me!](http://i.imgur.com/qWV2jBo.gif)
 
 ### Notes
 
