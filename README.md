@@ -73,7 +73,7 @@ Visual Studio Code is an electron-based text editor written in TypeScript and in
 
 ### Notes
 
-* You might want to go into user settings and disable telemetry. Not really a big issue, but 
+* You might want to go into user settings and disable telemetry. Not really a big issue, but...
 
 ---
 
