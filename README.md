@@ -31,7 +31,7 @@ Visual Studio Code is an electron-based text editor written in TypeScript and in
 
 * Beautiful and Customizable UI
 
-![](http://i.imgur.com/1TwtsRh.gif)
+[Long .gif, click me!](http://i.imgur.com/1TwtsRh.gif)
 
 * Code Peeking (works best with TypeScript)
 
@@ -39,7 +39,7 @@ Visual Studio Code is an electron-based text editor written in TypeScript and in
 
 * Easy to Start and Use Debugging
 
-![](http://i.imgur.com/6wT0HAH.gif)
+[Long .gif, click me!](http://i.imgur.com/6wT0HAH.gif)
 
 * Feature-Rich Extensions
 
@@ -87,7 +87,7 @@ Dash is an offline docset browser with intelligent indexing and search. It has s
 
 * Docset Indexing for Easy-Search
 
-![](http://i.imgur.com/dYNuewp.gif)
+[Long .gif, click me!](http://i.imgur.com/dYNuewp.gif)
 
 * Global Snippets
 
