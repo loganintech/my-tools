@@ -96,3 +96,23 @@ Dash is an offline docset browser with intelligent indexing and search. It has s
 
 ![](http://i.imgur.com/KjebdTs.gif)
 
+---
+
+## [Paw - $50](https://paw.cloud/)
+
+A nice picture straight off their website:
+
+![](https://cdn-static.paw.cloud/img/discover/landing/landing-header-1ac8944e97.png)
+
+### Description
+
+Paw is an API Development Tool that exceeds all expectations. Like Dash, it has sync for teams that allows everyone to access the same .paw files for api documentation. It supports extensions.
+
+### Features
+
+* HTTP Client
+* API Description Fields for Future Users or Exports
+* Team Support
+* Export Request to Code
+
+![](http://i.imgur.com/eGX6hUc.png)
