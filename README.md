@@ -121,7 +121,7 @@ Paw is an API Development Tool that exceeds all expectations. Like Dash, it has 
 
 # Utilities
 
-## Alfred (Free - Optional PowerPack 19 Pounds)
+## [Alfred (Free - Optional PowerPack 19 Pounds)](https://www.alfredapp.com/)
 
 ### Description
 
@@ -135,6 +135,28 @@ Alfred is a multi-purpose spotlight replacement. It indexes a lot more files tha
 ![](http://i.imgur.com/YjX8HYp.png)
 ![](http://i.imgur.com/DW7iwjt.png)
 
-* Workflows 
+* Workflows (Powerpack Only)
 
 ![](http://i.imgur.com/Cjb9ZMw.png)
+
+![](http://i.imgur.com/4MWxDQd.gif)
+
+* Phone App Remote Control
+
+---
+
+## Magnet ($.99)
+
+### Description
+
+Implements windows-like window clipping on monitor corners or sides. Simple in comparison to the rest of the list but very helpful.
+
+---
+
+## [STTS](https://github.com/inket/stts)
+
+### Description
+
+This handy little app sits in your taskbar and lets you see at a glance if your favorite services are having network issues.
+
+![](http://i.imgur.com/ViGFq4G.png)
