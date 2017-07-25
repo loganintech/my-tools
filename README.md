@@ -139,7 +139,7 @@ Alfred is a multi-purpose spotlight replacement. It indexes a lot more files tha
 
 ![](http://i.imgur.com/Cjb9ZMw.png)
 
-![](http://i.imgur.com/4MWxDQd.gif)
+[Long .gif, click me!](http://i.imgur.com/4MWxDQd.gif)
 
 * Phone App Remote Control
 
