@@ -145,7 +145,7 @@ Alfred is a multi-purpose spotlight replacement. It indexes a lot more files tha
 
 ---
 
-## Magnet ($.99)
+## [Magnet ($.99)](https://itunes.apple.com/us/app/magnet/id441258766?mt=12)
 
 ### Description
 
