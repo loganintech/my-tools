@@ -116,3 +116,25 @@ Paw is an API Development Tool that exceeds all expectations. Like Dash, it has 
 * Export Request to Code
 
 ![](http://i.imgur.com/eGX6hUc.png)
+
+---
+
+# Utilities
+
+## Alfred (Free - Optional PowerPack 19 Pounds)
+
+### Description
+
+Alfred is a multi-purpose spotlight replacement. It indexes a lot more files than spotlight and also provides useful shortcuts for services and other things.
+
+### Features
+
+* Better Search
+* Find file by contents
+
+![](http://i.imgur.com/YjX8HYp.png)
+![](http://i.imgur.com/DW7iwjt.png)
+
+* Workflows 
+
+![](http://i.imgur.com/Cjb9ZMw.png)
