@@ -48,25 +48,6 @@ Visual Studio Code is an electron-based text editor written in TypeScript and in
 
 [Long .gif, click me!](http://i.imgur.com/6wT0HAH.gif)
 
-* Feature-Rich Extensions
-
-* * [GitLens is one of the most impressive, heavily customizable extensions](https://github.com/eamodio/vscode-gitlens)
-
-* * Following Images Shamelessly Stolen from GitLens README: 
-
-![GitLens preview](https://raw.githubusercontent.com/eamodio/vscode-gitlens/master/images/gitlens-preview.gif)
-
-![Line Blame Annotation](https://raw.githubusercontent.com/eamodio/vscode-gitlens/master/images/screenshot-line-blame-annotation.png)
-
-![Line Blame Annotations](https://raw.githubusercontent.com/eamodio/vscode-gitlens/master/images/screenshot-line-blame-annotations.png)
-
-![File Blame Annotation](https://raw.githubusercontent.com/eamodio/vscode-gitlens/master/images/screenshot-file-blame-annotations.png)
-
-![Git Code Lens](https://raw.githubusercontent.com/eamodio/vscode-gitlens/master/images/screenshot-code-lens.png)
-
-* * And one of mine:
-
-![](http://i.imgur.com/ZLZYmkw.png)
 
 * Cross Platform
 * Small Performance Impact (in comparison to full IDEs)
@@ -78,11 +59,33 @@ Visual Studio Code is an electron-based text editor written in TypeScript and in
 
 ![](http://i.imgur.com/JD5Ep1N.png)
 
+* Feature-Rich Extensions
+
 ### Notes
 
 * You might want to go into user settings and disable telemetry. Not really a big issue, but...
 
 ### Favorite Extensions - Web Dev Focused (Can be installed by running `ext install author.extensionname`)
+
+#### GitLens `eamodio.gitlens`
+
+GitLens is one of the most impressive, heavily customizable extensions. It adds git blame, peeking, working tree comparison, and other visuals right in the editor.
+
+* Following Images Shamelessly Stolen from GitLens README: 
+
+![GitLens preview](https://raw.githubusercontent.com/eamodio/vscode-gitlens/master/images/gitlens-preview.gif)
+
+![Line Blame Annotation](https://raw.githubusercontent.com/eamodio/vscode-gitlens/master/images/screenshot-line-blame-annotation.png)
+
+![Line Blame Annotations](https://raw.githubusercontent.com/eamodio/vscode-gitlens/master/images/screenshot-line-blame-annotations.png)
+
+![File Blame Annotation](https://raw.githubusercontent.com/eamodio/vscode-gitlens/master/images/screenshot-file-blame-annotations.png)
+
+![Git Code Lens](https://raw.githubusercontent.com/eamodio/vscode-gitlens/master/images/screenshot-code-lens.png)
+
+* And one of mine:
+
+![](http://i.imgur.com/ZLZYmkw.png)
 
 #### Settings Sync `Shan.code-settings-sync`
 
