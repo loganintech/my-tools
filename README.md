@@ -84,7 +84,7 @@ Visual Studio Code is an electron-based text editor written in TypeScript and in
 
 ### Favorite Extensions - Web Dev Focused (Can be installed by running `ext install extensionname`)
 
-### Settings Sync `Shan.code-settings-sync`
+#### Settings Sync `Shan.code-settings-sync`
 
 Syncs your settings accross multiple installs using github gists. If you use multiple computers this is a must.
 
