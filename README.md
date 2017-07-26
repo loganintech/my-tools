@@ -80,6 +80,28 @@ Visual Studio Code is an electron-based text editor written in TypeScript and in
 
 ---
 
+## [GitKraken (Free Non-Commercial - $25 to $50 / Year by Sub #)](https://www.gitkraken.com/)
+
+### Description
+
+GitKraken is a full-feature cross platform Git GUI with convenient implementation of [git flow.](https://www.atlassian.com/git/tutorials/comparing-workflows#gitflow-workflow) It has support for lesser known features a graphic representation of git branches that makes it my first choice of git tools.
+
+### Features
+
+* Built in Diff Tool
+
+![](https://blog.axosoft.com/wp-content/uploads/2016/05/merge-tool-1-copy-1.png)
+
+* Beautiful Commit Information and Branch Visualization
+
+![](http://i.imgur.com/KxqmrM6.png)
+
+* Built In Git Flow Support
+
+![](https://support.gitkraken.com/img/documentation/repositories/git-flow-start.png)
+
+---
+
 ## [Dash - $25](https://kapeli.com/dash)
 
 ### Description
@@ -153,10 +175,26 @@ Implements windows-like window clipping on monitor corners or sides. Simple in c
 
 ---
 
-## [STTS](https://github.com/inket/stts)
+## [STTS - Free](https://github.com/inket/stts)
 
 ### Description
 
 This handy little app sits in your taskbar and lets you see at a glance if your favorite services are having network issues.
 
 ![](http://i.imgur.com/ViGFq4G.png)
+
+---
+
+## [Kap - Free](https://getkap.co/)
+
+### Description
+
+This is a screen recorder app for macintosh supporting video recording in Gif, WebM, and MP4 formats. It can record up to 60 FPS and supports different regions of your screen so you only capture what you want.
+
+### Features
+
+* Video Recording in GIT, WebM, and MP4
+* Variable Frame Size
+* Voice and Mouse Recording
+
+![](http://i.imgur.com/p2jocjO.png)
