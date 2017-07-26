@@ -91,6 +91,7 @@ Syncs your settings accross multiple installs using github gists. If you use mul
 #### Auto Close Tag `formulahendry.auto-close-tag`
 
 Automatically closes HTML tags (like in webstorm)
+
 ![](http://i.imgur.com/d8qTC4r.gif)
 
 #### Auto Rename Tag `formulahendry.auto-rename-tag`
