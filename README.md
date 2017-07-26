@@ -118,7 +118,7 @@ Compatible Languages as of 7/25/17
 
 Lets you run selections or custom text to dash queries without leaving the editor. I contributed some code to this :). Also lets you search based on current active language.
 
-![](http://i.imgur.com/eMWE6dD.gif)
+[Docset search .gif, click me!](http://i.imgur.com/eMWE6dD.gif)
 
 ![](http://i.imgur.com/9eNNzK3.png)
 
@@ -126,7 +126,7 @@ Lets you run selections or custom text to dash queries without leaving the edito
 
 Lets you debug chrome tabs. Doesn't require an extension on chrome like WebStorm.
 
-![](https://cdn.rawgit.com/Microsoft/vscode-chrome-debug/master/images/demo.gif)
+[Debugger for chrome example .gif, click me!](https://cdn.rawgit.com/Microsoft/vscode-chrome-debug/master/images/demo.gif)
 
 Bonus points because the demo gif is in angular.
 
