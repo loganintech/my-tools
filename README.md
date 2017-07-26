@@ -82,7 +82,7 @@ Visual Studio Code is an electron-based text editor written in TypeScript and in
 
 * You might want to go into user settings and disable telemetry. Not really a big issue, but...
 
-### Favorite Extensions - Web Dev Focused (Can be installed by running `ext install extensionname`)
+### Favorite Extensions - Web Dev Focused (Can be installed by running `ext install author.extensionname`)
 
 #### Settings Sync `Shan.code-settings-sync`
 
