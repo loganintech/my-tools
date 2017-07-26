@@ -59,6 +59,10 @@ Visual Studio Code is an electron-based text editor written in TypeScript and in
 
 ![](http://i.imgur.com/JD5Ep1N.png)
 
+* Automagic Javscript Function Documentation
+
+![](http://i.imgur.com/meGVXJM.gif)
+
 * Feature-Rich Extensions
 
 ### Notes
@@ -136,6 +140,8 @@ Bonus points because the demo gif is in angular.
 #### ESLint Support `dbaeumer.vscode-eslint`
 
 Gives support for ESLint in javascript files. Enforces rules like single or double quotes only, use of var vs let, or required semicolons. Very useful for keeping code style consistent.
+
+#### 
 
 ---
 
