@@ -141,7 +141,20 @@ Bonus points because the demo gif is in angular.
 
 Gives support for ESLint in javascript files. Enforces rules like single or double quotes only, use of var vs let, or required semicolons. Very useful for keeping code style consistent.
 
-#### 
+For a full list of rules, see here: http://eslint.org/docs/rules/ I have also supplied an example config in this repository.
+
+You can see eslint support in action in the JS Files. Make sure to `npm install -g eslint` or just check out these screenshots:
+
+![](http://i.imgur.com/o4Z9Kcs.png)
+![](http://i.imgur.com/jDaJ75O.png)
+![](http://i.imgur.com/P1DWPui.png)
+![](http://i.imgur.com/cxSafIR.png)
+
+#### Editorconfig Support `EditorConfig.editorconfig`
+
+This extension provides support for editorconfig, a tool used to standardize file and indent style (among other things). For a full list of rules you can see here: https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties
+
+I have also supplied an example config in this repository.
 
 ---
 
