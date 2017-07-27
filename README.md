@@ -8,13 +8,21 @@ Not My Image:
 
 ### Description
 
-Fantastical 2 is a calendar app. It's a good one. Not much more.
+Fantastical 2 is a calendar app. It's fully featured and acomplishes anything you might expect a calendar app to do. It also has integration with reminders and allows sync of online callendars. If you were tired of the somewhat oversized application that is Outlook, this is a good replacement. Pairs very well with the email client Airmail.
 
 ### Features
 
 * Intelligent Event Creation
 
 [Long .gif, click me!](http://i.imgur.com/qWV2jBo.gif)
+
+* Syncing to Chrome and Apple Calendars
+
+* Searches email (if allowed) for events and syncs with the email client Airmail
+
+* Lets you view company members schedules when creating events
+ 
+* It's beautiful (bonus points)
 
 ### Notes
 
