@@ -63,6 +63,10 @@ Visual Studio Code is an electron-based text editor written in TypeScript and in
 
 ![](http://i.imgur.com/meGVXJM.gif)
 
+* Fuzzy File Searcher
+
+![](http://i.imgur.com/5Ch89Sd.gif)
+
 * Feature-Rich Extensions
 
 ### Notes
