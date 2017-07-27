@@ -141,7 +141,7 @@ Bonus points because the demo gif is in angular.
 
 Gives support for ESLint in javascript files. Enforces rules like single or double quotes only, use of var vs let, or required semicolons. Very useful for keeping code style consistent.
 
-For a full list of rules, see here: http://eslint.org/docs/rules/ I have also supplied an example config in this repository.
+For a full list of rules, see here: http://eslint.org/docs/rules/ I have also supplied an example config in this repository along with a javascript file to test said rules.
 
 You can see eslint support in action in the JS Files. Make sure to `npm install -g eslint` or just check out these screenshots:
 
@@ -152,7 +152,15 @@ You can see eslint support in action in the JS Files. Make sure to `npm install 
 
 #### Editorconfig Support `EditorConfig.editorconfig`
 
-This extension provides support for editorconfig, a tool used to standardize file and indent style (among other things). For a full list of rules you can see here: https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties
+This extension provides support for editorconfig, a tool used to standardize file and indent style (among other things). It's natively supported in the following editors:
+
+> BBEdit, Builder, GitHub (yes online), Gogs, PyCharm, IntelliJ IDEA, RubyMine, WebStorm, Komodo, SourceLair, TortoiseGit, and Visual Studio
+
+You can download a plugin for it on these:
+
+> AppCode, Atom, Brackets, CLion, Coda, Code::Blocks, Eclipse, Emacs, Geany, gedit, jEdit, micro, NetBeans, Notepad++, PHPStorm, Sublime Text, Textadept, textmate, Vim, Xcode, and, clearly, VSCode :)
+
+For a full list of rules you can see here: https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties
 
 I have also supplied an example config in this repository.
 
